@@ -1,6 +1,6 @@
 {
   "name": "dovstone/symfony-blog-admin-bundle-mongodb-based",
-  "description": "A Symfony Blog Administrator based on MongoDB",
+  "description": "A Powerfull Symfony Blog Administrator based on MongoDB",
   "type": "symfony-bundle",
   "keywords": ["dovstone","symfony","blog","admin","bundle","mongodb","database"],
   "license": "MIT",
