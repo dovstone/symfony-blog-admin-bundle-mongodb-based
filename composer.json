@@ -1,5 +1,5 @@
 {
-  "name": "dovstone/symfony-blog-admin-bundle-monogodb-based",
+  "name": "dovstone/symfony-blog-admin-bundle-mongodb-based",
   "description": "A Symfony Blog Administrator based on MongoDB",
   "type": "symfony-bundle",
   "keywords": ["dovstone","symfony","blog","admin","bundle","monogodb","based","database"],
